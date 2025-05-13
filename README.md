@@ -14,4 +14,3 @@ mv linty ~/.local/bin/linty
 ```sh
 eslint src/ --fix | linty
 ```
-```
