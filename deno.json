@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "run": "deno run main.js",
+    "compile": "deno compile  --output=linty main.js"
+  }
+}
